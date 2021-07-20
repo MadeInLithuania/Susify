@@ -5,6 +5,7 @@
 <img src = "https://img.shields.io/github/stars/ZukiLTU/Susify"/>
 <p>Allows you to execute .sus files (for the memes)<p>
 <p>It only changes the registry and their keys in order to be able to execute the .sus file extensions.</p>
+<p>Soon : double click execution</p>
   
 <h2>Installation</h2>
 <ul>
