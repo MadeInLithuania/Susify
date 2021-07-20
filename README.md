@@ -6,7 +6,7 @@
 <h2>Installation</h2>
 <ul>
   <li>Run the script <strong>install.bat</strong></li>
-  <li>Open the CMD and type <strong>start yourname.sus</strong></li>
+  <li>Open the CMD and type <strong>start yourfile.sus</strong></li>
  </ul>
 
 <h2>Uninstall</h2>
