@@ -11,5 +11,5 @@
 
 <h2>Uninstall</h2>
 <ul>
-  <li>Run the script <strong>uninstall.exe</strong></li>
+  <li>Run the script <strong>uninstall.bat</strong></li>
  </ul>
