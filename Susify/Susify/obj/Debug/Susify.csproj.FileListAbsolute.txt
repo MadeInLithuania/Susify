@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Dev\Sus Project\Susify\Susify\bin\Debug\Susify.exe.config
+C:\Users\User\Desktop\Dev\Sus Project\Susify\Susify\bin\Debug\Susify.exe
+C:\Users\User\Desktop\Dev\Sus Project\Susify\Susify\bin\Debug\Susify.pdb
+C:\Users\User\Desktop\Dev\Sus Project\Susify\Susify\obj\Debug\Susify.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dev\Sus Project\Susify\Susify\obj\Debug\Susify.exe
+C:\Users\User\Desktop\Dev\Sus Project\Susify\Susify\obj\Debug\Susify.pdb
+C:\Users\User\Desktop\Dev\Sus Project\Susify\Susify\obj\Debug\Susify.csprojAssemblyReference.cache
