@@ -1,0 +1,1 @@
+start Susify/Susify/bin/Debug/VoteTheImpostorOut.exe

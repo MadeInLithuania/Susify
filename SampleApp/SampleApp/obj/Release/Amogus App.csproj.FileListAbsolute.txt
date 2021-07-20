@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Dev\Sus Project\Amogus App\Amogus App\bin\Release\Amogus App.exe.config
+C:\Users\User\Desktop\Dev\Sus Project\Amogus App\Amogus App\bin\Release\Amogus App.exe
+C:\Users\User\Desktop\Dev\Sus Project\Amogus App\Amogus App\bin\Release\Amogus App.pdb
+C:\Users\User\Desktop\Dev\Sus Project\Amogus App\Amogus App\obj\Release\Amogus App.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Dev\Sus Project\Amogus App\Amogus App\obj\Release\Amogus_App.formAmogus.resources
+C:\Users\User\Desktop\Dev\Sus Project\Amogus App\Amogus App\obj\Release\Amogus_App.Properties.Resources.resources
+C:\Users\User\Desktop\Dev\Sus Project\Amogus App\Amogus App\obj\Release\Amogus App.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Dev\Sus Project\Amogus App\Amogus App\obj\Release\Amogus App.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dev\Sus Project\Amogus App\Amogus App\obj\Release\Amogus App.exe
+C:\Users\User\Desktop\Dev\Sus Project\Amogus App\Amogus App\obj\Release\Amogus App.pdb
